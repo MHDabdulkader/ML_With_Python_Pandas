@@ -16,10 +16,10 @@
       Step 7: Evaluate and Improve.
   
 # Libaray
-  1. Numpy -> multidimensional array for store data set
-  2. Pandas -> Data Analysis 
-  3. MatPlotLib -> X,Y graph in 2D
-  4. Scikit_Learn -> Provide Algorithm for Machine Learning like decision tree and others.
+      1. Numpy -> multidimensional array for store data set
+      2. Pandas -> Data Analysis 
+      3. MatPlotLib -> X,Y graph in 2D
+      4. Scikit_Learn -> Provide Algorithm for Machine Learning like decision tree and others.
   
 # Step 1: Import data set in the formate is CVS file
   
