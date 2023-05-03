@@ -7,16 +7,15 @@
     - other set in code    
     
 # Machine learning with Python.
-Machine learning actions:
-  Step 1: Import Data Set in the formate is CVS file.
-  Step 2: Clear dublicate data and missing information, such as a lack of a column for a description.
-  Step 3: Split the data set for ( X )% for trainning set and ( 100 - X )% for the test set.
-  Step 4: Create a Model.
-  Step 5: Train the Model.
-  Step 6: Make Predictions.
-  Step 7: Evaluate and Improve.
+      Step 1: Import Data Set in the formate is CVS file.
+      Step 2: Clear dublicate data and missing information, such as a lack of a column for a description.
+      Step 3: Split the data set for ( X )% for trainning set and ( 100 - X )% for the test set.
+      Step 4: Create a Model.
+      Step 5: Train the Model.
+      Step 6: Make Predictions.
+      Step 7: Evaluate and Improve.
   
-# Libaray:
+# Libaray
   1. Numpy -> multidimensional array for store data set
   2. Pandas -> Data Analysis 
   3. MatPlotLib -> X,Y graph in 2D
